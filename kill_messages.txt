@@ -1,1 +1,64 @@
-test
+[Roadkill]
+| %name% just kissed the asphalt thanks to %killer%. Hope you liked the taste of dirt, bitch.
+| %killer% just drove over %name%. Didn't realize we were running over dog shit today.
+| %name% got their spine snapped by %killer%'s treads. Should've learned how to run, you useless fuck.
+| %killer% turned %name% into a speed bump. You make a terrible pancake.
+| %name% got roadkilled by %killer%. Did you forget how to move your legs ?
+| %name% got run over. Congratulations, you've successfully proven that tanks are harder than human bodies.
+| %killer% just used %name% as a tire pressure test. 0/10 for survival instincts.
+| %name% got roadkilled. Were you waiting for the vehicle to stop, or just hoping it would miss?
+| %killer% ran over %name%. Next time, try not to stand in the middle of the road like a lost tourist.
+
+[Rocket]
+| %killer% sent %name% flying with a rocket. You make a fantastic firework.
+| %killer% shoved an RPG straight up %name%'s ass. Hope it hurt, you dumb fuck.
+| %name% got blown to absolute shit by %killer%'s rocket. Pieces of you are still falling.
+| %killer% delivered a surprise package to %name%'s face. Signed, sealed, and blown to shit.
+| %name% got rocketed by %killer%. Did you think the RPG was a laser pointer?
+| %killer% blew %name% into tiny fucking pieces. We gonna need a mop and a shovel for this mess.
+| %killer% blew %name% to pieces. Stop standing in the open like a target dummy.
+| %name% got AT4'd. I'd tell you to take cover, but you clearly don't know what that word means.
+| %killer% just launched %name% into orbit. Your gravitational pull must be zero.
+| %name% got rocketed. I'd ask if you saw it coming, but you probably didn't even see the guy holding it.
+| %killer% just put a rocket up %name%'s ass. Hope you enjoyed the internal combustion, bitch.
+
+[Knife]
+| %killer% knifed %name%. Did you forget to turn around.
+| %killer% shanked %name%, bitches love a good shanking
+| %name% got his balls cut off by %killer%.
+| %name% lost his lunch. and his guts after %killer% cut him open
+| %killer% tried to perform open heart surgery on %name%. it didnt end well !
+| %name% got a free prostate exam from %killer%'s knife. Scream all you want, you pathetic bitch.
+| %name% got shanked by %killer%. You fight like a bitch.
+| %name% got shanked in the neck by %killer%. Bleeding out like a stuck pig.
+| %name% got their face caved in by %killer%'s knife. Look at the fucking minimap, you blind idiot.
+| %killer% just put a butt plug in %name%'s ass. Next time, try looking behind you, genius.
+| %name% got knifed. I'd say "watch your back", but you clearly lack the neck muscles to turn your head.
+| %name% got knifed by %killer%. Wake the fuck up.
+
+[C4]
+| %killer% shoved C4 right down %name%'s throat. Hope you enjoyed the spicy surprise, fuckface.
+| %killer% C4'd %name%. Did you think the blinking red light was a disco ball?
+| %name% got blown to absolute shit by %killer%. I can still see your teeth on that wall, you useless fuck.
+| %name% walked right into a C4 trap set by %killer%. Brains of a lemming.
+| %killer% blew up %name% with C4. You're on fire baby.
+| %name% got C4'd by %killer%. Next time, look at the wall before you hug it.
+| %killer% just turned %name% into a C4 pinata. Stop walking into explosives, you absolute clown.
+
+[Repair]
+| %killer% beat %name% to death with a repair tool. That's what happens when you forget it's not just for tanks.
+| %name% got wrenched to death by %killer%. Even the toolbox thinks you're pathetic.
+| %killer% fixed %name%'s attitude problem with a spanner to the skull.
+| %name% got repair-tooled. Turns out maintenance equipment doubles as a skull crusher, who knew.
+| %killer% clubbed %name% with a wrench. Guess that vehicle wasn't the only thing that needed fixing.
+| %name% died to a repair tool. That's the video game equivalent of losing to a spoon.
+| %killer% went full mechanic on %name%'s face. Diagnosis: dead.
+
+[Defib]
+| %killer% shocked %name% straight to hell with the defib. Well, that's one way to flatline someone.
+| %name% got zapped by %killer%'s paddles. Clear! ...aaand you're dead.
+| %killer% used the defib wrong on purpose and %name% paid for it.
+| %name% died to a defibrillator. The one tool meant to bring you back just sent you packing.
+| %killer% gave %name% one hell of a jump-start straight into the afterlife.
+| %name% got charged up and shut down by %killer%. Irony has a sense of humor.
+| %killer% zapped %name% dead. Should've read the instruction manual before standing that close.
